@@ -1,5 +1,5 @@
 Hi!
-This is my private self on GH. I code for fun and primarily in Python.
+This is my private self on GH. Here, I code for fun and primarily in Python.
 
 <!---
 bjscsn/bjscsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
